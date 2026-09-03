@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LingPack.Cli/LingPack.Cli.csproj" />
+    <Project Path="src/LingPack.Core/LingPack.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LingPack.Core.Tests/LingPack.Core.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+bin/
+obj/
+.export-venv/
+models/
+*.user
+.vs/
